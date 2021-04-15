@@ -1,0 +1,10 @@
+9
+INT1306,Cau truc du lieu va giai thuat,2,2,4
+INT1201,Dai so,3,3,1
+BAS1203,Giai Tich,6,6,2
+BAS1204,Giai tich 2,3,3,0
+BAS1141,Tieng Anh A1,2.5,2.5,1
+INT1155,Tin Hoc Co So 2,3,3,0
+INT1154,Tin hoc co so 1,1,1,1
+BAS1224,Vat Li Va Thi Nghiem 1,3,3,0
+BAS1227,Vat Li Va Thi Nghiem 3,4,4,0
